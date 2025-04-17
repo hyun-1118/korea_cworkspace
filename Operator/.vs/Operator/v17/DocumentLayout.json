@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\cworks\\Operator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{435F4791-6AA0-444A-8C29-28D901B7B4AE}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{435F4791-6AA0-444A-8C29-28D901B7B4AE}|Operator\\Operator.vcxproj|solutionrelative:Operator\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{435F4791-6AA0-444A-8C29-28D901B7B4AE}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\ChoiceOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435F4791-6AA0-444A-8C29-28D901B7B4AE}|Operator\\Operator.vcxproj|solutionrelative:Operator\\ChoiceOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435F4791-6AA0-444A-8C29-28D901B7B4AE}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435F4791-6AA0-444A-8C29-28D901B7B4AE}|Operator\\Operator.vcxproj|solutionrelative:Operator\\BitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Swap.c",
-              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Swap.c",
-              "RelativeDocumentMoniker": "Operator\\Swap.c",
-              "ToolTip": "C:\\cworks\\Operator\\Operator\\Swap.c",
-              "RelativeToolTip": "Operator\\Swap.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "ChoiceOperator.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\ChoiceOperator.c",
+              "RelativeDocumentMoniker": "Operator\\ChoiceOperator.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\ChoiceOperator.c",
+              "RelativeToolTip": "Operator\\ChoiceOperator.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-17T10:31:22.911Z",
+              "WhenOpened": "2025-04-17T12:37:23.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitOperator.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\BitOperator.c",
+              "RelativeDocumentMoniker": "Operator\\BitOperator.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\BitOperator.c",
+              "RelativeToolTip": "Operator\\BitOperator.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:23:17.455Z",
               "EditorCaption": ""
             }
           ]
