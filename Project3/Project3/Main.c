@@ -1,0 +1,21 @@
+#include <stdio.h>
+//사용자 정의 헤더파일은 쌍따옴표 사용해야 함
+#include "Calculator.h"
+
+int main() {
+	int x = 3, y = 4;
+	int value1, value2;
+
+	count++;
+	value1 = add(x,y);
+	value2 = factorial(y);
+
+	printf("count = %d\n", count);
+	printf("value1 = %d\n", value1);
+	printf("%d! = %d\n",y,  value2);
+	printf("5! = %d\n", factorial(5));
+
+	system("pause"); 
+
+	return 0;
+}

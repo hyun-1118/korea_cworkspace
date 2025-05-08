@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\cworks\Project3\Project3\Main.c(18,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project3.vcxproj -> C:\cworks\Project3\x64\Debug\Calculator.exe
